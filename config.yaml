@@ -1,0 +1,16 @@
+save_step: 2
+batch_size: 32
+
+
+file_path: /content/drive/MyDrive/MSC/DeepLearning/HW4/Q2/dataset
+
+
+model: BertWithNNClassifier
+part: 1
+layer: -1
+bert: HooshvareLab/bert-base-parsbert-uncased # bert-base-multilingual-cased
+
+model_pth: hubert_model.pth
+
+section: 1
+
