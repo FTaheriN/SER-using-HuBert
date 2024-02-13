@@ -1,0 +1,1 @@
+[Hubert](https://huggingface.co/facebook/hubert-base-ls960) is used for the task of speech emotion recognition on the [ShEMO](https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database) dataset. 
